@@ -13,6 +13,7 @@ hist(n4%%7)
 *****************************
 seems that data n1>n2>n3>n4> draw a picture hist
 we know that magrittr has 4 basic functions 
+```r
 1.%>% 2.%T>% 3. 4.
 we changed the exmaple as 
 set.seed(1)
